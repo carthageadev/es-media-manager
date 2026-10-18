@@ -15,5 +15,3 @@ bun install
 cp .env.example .env.local   # add your ScreenScraper.fr developer credentials
 bun run dev
 ```
-
-MIT
